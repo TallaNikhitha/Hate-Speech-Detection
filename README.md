@@ -5,8 +5,6 @@ This project focuses on detecting hate speech in text using machine learning. It
 ## Project Structure
 
 - **hatespeech.py**: The main script that handles data preprocessing, model training, and the web-based prediction interface using Streamlit.
-  
-- **CustomerDemographics.csv, Transactional_data_retail_01.csv, Transactional_data_retail_02.csv, forecasted_data.csv**: These files appear to be related to another project or dataset and do not directly impact the hate speech detection functionality in the `hatespeech.py` file.
 
 ## Features
 
